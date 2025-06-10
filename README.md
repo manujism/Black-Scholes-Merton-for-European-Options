@@ -1,6 +1,6 @@
 # Black-Scholes-Merton-for-European-Options
 
-
+Overview
 ----
 The Black-Scholes model is a widely used mathematical model for pricing European-style options. It is based on the assumption that the price of the underlying asset follows a geometric Brownian motion. The model provides a closed-form solution to price both call and put options.
 
