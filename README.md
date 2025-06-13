@@ -25,7 +25,6 @@ Black-Scholes Formula
 --------
 <img width="627" alt="image" src="https://github.com/user-attachments/assets/8a0d92e6-ed83-4511-8bc2-6f0adfbad7e3" />
 
-
 ------
 
 Greeks Calculations
@@ -41,6 +40,11 @@ Greeks Calculations
 **Vega (ν):** Measures the sensitivity of the option price to changes in volatility.
 
 **Rho (ρ):** Measures the sensitivity of the option price to changes in the risk-free interest rate.
+
+Greeks Formula
+--------
+
+<img width="1474" alt="image" src="https://github.com/user-attachments/assets/e8cbdf40-1961-4d18-9ef8-2fe57b203397" />
 
 ------------
 
